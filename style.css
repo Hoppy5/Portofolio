@@ -1,0 +1,165 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: "IBM Plex Mono", monospace;
+}
+
+.all{
+    width: 100%;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow-y: auto;
+}
+
+.container4{
+    width: 100%;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+}
+
+.art1{
+    width: 50%;
+    align-items: flex-start;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+     padding-top: 4rem;
+    gap: .5rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+    h1{
+        font-size: 900;
+    }
+
+    p{
+        color: #9C9C9C;
+        align-items: center;
+    }
+}
+
+.art2{
+    width: 70%;
+    align-items: flex-start;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    gap: .5rem;
+    display: flex;
+}
+
+.art21{
+    width: 50%;
+    align-items: flex-start;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 0;
+    align-items: flex-start;
+    gap: 2rem;
+    display: flex;
+    
+    button{
+        background-color: #3F8E00;
+        width: 55%;
+        padding: 18px;
+        border-radius: 8px;
+        color: aliceblue;
+        border: none;
+        font-size: 15px;
+        font-weight: bold;
+
+
+    }
+
+    h1{
+        color: #080808;
+        font-family: Raleway;
+    }
+
+    p{
+        width: 70%;
+        color: #9C9C9C;
+    }
+}
+
+.art21 img{
+    width: 90%;
+    border-radius: .5rem;
+    
+}
+
+.art22{
+    width: 50%;
+    align-items: flex-start;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 0;
+    align-items: flex-start;
+    gap: 2rem;
+    display: flex;
+    
+    button{
+        background-color: #3F8E00;
+        width: 55%;
+        padding: 18px;
+        border-radius: 8px;
+        color: aliceblue;
+        border: none;
+        font-size: 15px;
+        font-weight: bold;
+
+
+    }
+
+    h1{
+        color: #080808;
+        font-family: Raleway;
+    }
+
+    p{
+        width: 70%;
+        color: #9C9C9C;
+        
+
+
+    }
+}
+
+.art22 img{
+    width: 90%;
+    border-radius: .5rem;
+    
+}
+
+.art3{
+    width: 70%;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-direction: row;
+    align-items: center;
+    padding: 5rem 0;
+    gap: .5rem;
+    display: flex;
+}
+
+.artcont2{
+    width: 100%;
+    align-items: flex-start;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 5rem 0;
+    gap: 1rem;
+    
+    display: flex;
+
+}
